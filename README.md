@@ -1,1 +1,1 @@
-# manifest
+# Ton Connect Manifest
